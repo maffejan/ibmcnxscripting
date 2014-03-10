@@ -3,6 +3,8 @@
 .project
 .pydevproject
 *.class
+.project
+.pydevproject
 /videos
 /gui
 /cheatsheet.txt
